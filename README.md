@@ -4,8 +4,9 @@
 
 <p align="center">
 
-## About Me
-- 🥇 I have been a software engineering intern at [Uber](https://www.uber.com/) 🚘 and [Capital One](https://www.capitalone.com/) 💳.
+### About Me
+
+- 🥇 Completed software engineering internships at [Uber](https://www.uber.com/) 🚘 and [Capital One](https://www.capitalone.com/) 💳.
 - 🔭 I’m currently working on building an algorithmic trading bot for the S&P 500.
 - 🌱 I’m currently learning distributed systems, microservices, and Spring Boot.
 - 🤔 I'm interested in backend and full stack engineering.
