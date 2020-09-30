@@ -2,8 +2,6 @@
     <h1> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 
-______________________________________________________________________________________________________________________
-
 ## About Me
 - 🥇 I have been a software engineering intern at [Uber](https://www.uber.com/) 🚘 and [Capital One](https://www.capitalone.com/) 💳.
 - 🔭 I’m currently working on building an algorithmic trading bot for the S&P 500.
