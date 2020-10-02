@@ -20,7 +20,7 @@
 <img height="20" src="https://img.icons8.com/color/48/000000/nodejs.png">
 <img height="20" src="https://img.icons8.com/color/48/000000/mongodb.png">
 <img height="20" src="https://img.icons8.com/color/48/000000/postgreesql.png">
-
+<img height="20" src="https://img.icons8.com/color/48/000000/git.png">
 
 <!--
 **JLin0/JLin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
