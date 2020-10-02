@@ -11,6 +11,15 @@
 - 🌱 I’m currently learning distributed systems, microservices, and Spring Boot.
 - 🤔 I'm interested in backend and full stack engineering.
 
+### What's in my bag?
+
+<code><img height="20" src="https://img.icons8.com/dusk/48/000000/javascript.png"></code>
+<img height="20" src="https://img.icons8.com/dusk/64/000000/python.png">
+<img height="20" src="https://img.icons8.com/color/48/000000/golang.png">
+<img height="20" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png">
+<img height="20" src="https://img.icons8.com/color/48/000000/nodejs.png">
+<img height="20" src="https://img.icons8.com/color/48/000000/mongodb.png">
+<img height="20" src="https://img.icons8.com/color/48/000000/postgreesql.png">
 
 
 <!--
