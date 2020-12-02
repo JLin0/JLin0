@@ -5,7 +5,7 @@
 <p align="center">
 
 ### About Me
-
+- 💼 Currently working as a software engineer at Bloomberg 📈
 - 🥇 Completed software engineering internships at [Uber](https://www.uber.com/) 🚘 and [Capital One](https://www.capitalone.com/) 💳.
 - 🔭 I’m currently working on building an algorithmic trading bot for the S&P 500.
 - 🌱 I’m currently learning distributed systems, microservices, and Spring Boot.
